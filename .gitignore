@@ -1,5 +1,6 @@
-# Ignore VS Code
+# Ignore VS Code and venv
 .vscode/
+.venv/
 
 # ignore src directory downloaded from Gitlab
 src/
